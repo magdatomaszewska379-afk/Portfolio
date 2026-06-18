@@ -26,8 +26,11 @@ Robotic process automation in Telecom: https://softwaremind.com/blog/robotic-pro
 (Only title allowed due to copyright laws)
 
 5 Ways How Fintech is Transforming Digital Banking in 2026
+
 5 Challenges the Broadcasting Industry Needs to Overcome
+
 Top 6 DataOps Moves from AI Pilots to Data-Ready AI Agents 
+
 Top 3 Reasons Why Data is Key to Enterprise AI  
 
 
@@ -38,13 +41,18 @@ Top 3 Reasons Why Data is Key to Enterprise AI
 (Only title allowed due to copyright laws)
 
 How Real-Time Data Processing is Driving iGaming Growth 
+
 Multi-cloud vs single cloud: choosing the right architecture for enterprise systems
+
 Multi-cloud vs. Single cloud – How to choose the right match?
+
 Pain points of lotteries in i-Gaming industry and how they can be overcome
 
 
 4. Educational content written for Cyberly start-up
-I wrote 300 modules on cybersecurity awareness regarding Social Engineering, Cloud Security, Network Security, GDPR, NIS2, SOC2, PCI DSS and HIPAA. Each module consisted of various units: “definition”, “importance”, “what to do”, “real-life story” and “quizzes”). Below are only excerpts of some units:
+I wrote 300 modules on cybersecurity awareness regarding Social Engineering, Cloud Security, Network Security, GDPR, NIS2, SOC2, PCI DSS and HIPAA.
+
+Each module consisted of various units: “definition”, “importance”, “what to do”, “real-life story” and “quizzes”). Below are only excerpts of some units:
 
 Module: Modern testing
 Topic: Introduction to Testing
