@@ -1,7 +1,10 @@
-# Technical Content Writer Portfolio
+# 📝 Technical Content Writer Portfolio
 
-## My name is Magda Tomaszewska-Sosnowska. I am a Technical Content Writer. 
-### I create content in Polish, English and German.
+## About me
+
+### My name is Magda Tomaszewska-Sosnowska. 
+I am a Technical Content Writer. 
+I create content in Polish, English and German.
 
 I create:
 - **SEO articles**
