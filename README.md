@@ -1,8 +1,17 @@
-# Portfolio
-Technical Content Writer Portfolio
+# Technical Content Writer Portfolio
+
+## Nazywam się Magda Tomaszewska-Sosnowska. Jestem Technical Content Writerem. Piszę w języku polskim, angielskim i niemieckim.
+
+Tworzę:
+- **Artykuły SEO**
+- **Treści na LinkedIn**
+- **Wpisy na bloga**
+- **Content edukacyjny**
+
+  
 
 
-1. SEO articles written for Software Mind (February 2026 – now)
+**1. SEO articles written for Software Mind (February 2026 – now)**
 
 Top Telecom Trends for 2026: https://softwaremind.com/blog/top-telecom-trends-in-2026/
 
@@ -22,7 +31,7 @@ Network Deployment: https://softwaremind.com/blog/network-deployment-a-complete-
 
 Robotic process automation in Telecom: https://softwaremind.com/blog/robotic-process-automation-rpa-in-telecom-use-cases-benefits-and-implementation/
 
-2. Blog articles written for Software Mind
+**2. Blog articles written for Software Mind**
 (Only title allowed due to copyright laws)
 
 5 Ways How Fintech is Transforming Digital Banking in 2026
@@ -37,7 +46,7 @@ Top 3 Reasons Why Data is Key to Enterprise AI
 
 
 
-3. LinkedIn articles written for Software Mind
+**3. LinkedIn articles written for Software Mind**
 (Only title allowed due to copyright laws)
 
 How Real-Time Data Processing is Driving iGaming Growth 
@@ -49,7 +58,7 @@ Multi-cloud vs. Single cloud – How to choose the right match?
 Pain points of lotteries in i-Gaming industry and how they can be overcome
 
 
-4. Educational content written for Cyberly start-up
+**4. Educational content written for Cyberly start-up**
 I wrote 300 modules on cybersecurity awareness regarding Social Engineering, Cloud Security, Network Security, GDPR, NIS2, SOC2, PCI DSS and HIPAA.
 
 Each module consisted of various units: “definition”, “importance”, “what to do”, “real-life story” and “quizzes”). Below are only excerpts of some units:
