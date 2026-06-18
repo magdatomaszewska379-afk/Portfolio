@@ -1,6 +1,7 @@
 # Technical Content Writer Portfolio
 
-## Nazywam się Magda Tomaszewska-Sosnowska. Jestem Technical Content Writerem. Piszę w języku polskim, angielskim i niemieckim.
+## Nazywam się Magda Tomaszewska-Sosnowska. Jestem Technical Content Writerem. 
+### Piszę w języku polskim, angielskim i niemieckim.
 
 Tworzę:
 - **Artykuły SEO**
