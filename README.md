@@ -5,13 +5,21 @@ Technical Content Writer Portfolio
 1. SEO articles written for Software Mind (February 2026 – now)
 
 Top Telecom Trends for 2026: https://softwaremind.com/blog/top-telecom-trends-in-2026/
+
 Customer Experience Management in Telecom: https://softwaremind.com/blog/customer-experience-management-in-telecom-cem-strategies-trends-for-2026/
+
 AI in insurance: https://softwaremind.com/blog/conversational-ai-in-insurance-use-cases-benefits-and-trends/
+
 iGaming Trends for 2026: Technology, Regulation & Market Shifts https://softwaremind.com/blog/igaming-trends-for-2026-technology-regulation-market-shifts/
+
 HMI Software Development Guide for 2026: https://softwaremind.com/blog/hmi-software-development-guide-for-2026-types-applications-and-benefits/
+
 AI in Logistics: https://softwaremind.com/blog/ai-in-logistics-real-world-examples-and-use-cases/
+
 Fintech API: https://softwaremind.com/blog/fintech-apis-what-are-they-and-how-do-they-work/
+
 Network Deployment: https://softwaremind.com/blog/network-deployment-a-complete-guide-for-telecom-operators/
+
 Robotic process automation in Telecom: https://softwaremind.com/blog/robotic-process-automation-rpa-in-telecom-use-cases-benefits-and-implementation/
 
 2. Blog articles written for Software Mind
