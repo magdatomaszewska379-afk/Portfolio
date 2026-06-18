@@ -75,7 +75,7 @@ A testing mindset is like a being a detective — curious and alert, spotting hi
 
 
 
-Module: Cloud Security
+*Module: Cloud Security*
 
 Topic: Tools to Help
 
@@ -83,7 +83,8 @@ Importance:
 
 Tools like AWS Config act like a security camera, tracking every change in your cloud setup to spot misconfigurations. AWS Shield is your bodyguard, protecting against DDoS attacks that try to overwhelm your system. GuardDuty works like a cloud detective, watching for unusual or suspicious behavior. Service Control Policies (SCPs) are like building rules—they control what each team or account is allowed to do, keeping everything organized and safe. The AWS Well-Architected Review is your regular check-up, helping you find weaknesses and follow best practices. Together, these tools strengthen your cloud security and help prevent costly mistakes or attacks.
 
-Module: IT essentials for non-IT people
+
+*Module: IT essentials for non-IT people*
 
 Topic: Back-end, front-end and full-stack development
 
@@ -93,7 +94,8 @@ Think of a Frontend Developer like a makeup artist — they focus on the visual 
 In contrast, a Backend Developer is like a cosmetics manufacturer — working behind the scenes, they create the core formulas and systems that make the beauty possible. They write the code that powers the application, handles data, and ensures everything runs smoothly.
 A Full-Stack Developer is like someone who can do both — they create the cosmetics and apply them skilfully, handling everything from server logic to the final visual presentation.
 
-Module: IT essentials for non-IT people
+
+*Module: IT essentials for non-IT people*
 
 Topic: Jenkins, Bamboo and TeamCity
 
@@ -103,7 +105,8 @@ Jenkins is like a coffee machine with hundreds of settings and attachments — c
 Bamboo is like a Nespresso OriginalLine machine — designed to work only with Nespresso capsules. Similarly, Bamboo works best when integrated with other Atlassian tools like Jira and Bitbucket.
 TeamCity is like a smart coffee machine. As soon as you walk into the kitchen, it detects your preferences and starts preparing your drink. Just like TeamCity in the world of CI/CD — smart defaults, automatic build (the result of turning source code into a working program) detection, and clear feedback make development feel effortless.
 
-Module: Physical Security
+
+*Module: Physical Security*
 
 Topic: Keeping premises safe
 
@@ -111,7 +114,8 @@ Real life story:
 
 The hallway was quiet—too quiet. Max, security’s sharpest eye, spotted it: a door cracked open like a loose secret. This wasn’t some everyday slip-up. This was the top lab. Confidential like a vault in a spy novel. Max eased the door shut, drew his phone, and made the call. “We got a problem. Or a close call.” It turned out that a delivery guy had forgotten to secure it. “Accident?” Max asked, eyebrow raised. The security officer confirmed. No foul play. His quick action was a reminder to all: security isn’t about assuming safety—it’s about ensuring it. A single moment of awareness protected the entire company.
 
-Module: Physical Security
+
+*Module: Physical Security*
 
 Topic: Visitor Policy
 
@@ -119,7 +123,8 @@ Real-life story:
 
 Caroline, a potential partner, arrived for a meeting. While she waited in the lobby, an employee, distracted by a phone call, left his computer unlocked. Carol noticed the screen open with sensitive documents visible. She took screenshots of the files and sent them to her personal email and vanished. When the employee returned, he found his inbox was showing signs of unauthorized activity and the partner was gone. Moral of the story? Guard your data like it's gold—especially when visitors are around!
 
-Module: Social Engineering
+
+*Module: Social Engineering*
 
 Topic: Tailgaiting
 
@@ -135,7 +140,8 @@ Alice, a C++ Linux Software Engineer at a software company, was heading to the r
 "How unfortunate! Come with me to my office, and I'll issue a new access card."
 As they walked, Alice discreetly texted the security guard. By the time they reached her office, the guard was already there, ready to take control of the situation!
 
-Module: Social Engineering
+
+*Module: Social Engineering*
 
 Topic: Urgency
 
@@ -151,7 +157,8 @@ IT guy: "NO!"
 Charles: "Who would do this?"
 IT guy: "A hacker probably acting for our competitor. Our project data is very precious!"
 
-Module: GDPR
+
+*Module: GDPR*
 
 Topic: Understanding GDPR
 
@@ -159,7 +166,8 @@ Importance:
 
 Without GDPR: Imagine you download a free weather app and accept the terms without reading. (12 pages long and full of legal jargon. Anyway, who has time for it?). Without your consent, the app starts collecting your location every 10 seconds, accessing contacts, photos, and browsing history — and selling it all to advertisers and data brokers. Soon, you receive targeted ads based on your movements. Your phone drains faster — it's constantly tracking you! You’re invisible as a person but fully exposed as a data source! With GDPR: The app would need your clear consent and could only collect data necessary to provide the service — not exploit your privacy!
 
-Module: HIPAA
+
+*Module: HIPAA*
 
 Topic: Use and disclosure of PHI: When it’s permitted
 
