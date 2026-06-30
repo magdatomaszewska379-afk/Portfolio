@@ -2,8 +2,8 @@
 
 ## 👋 About me
 
-### My name is **Magda Tomaszewska-Sosnowska**. 
-I am a **Technical Content Writer** in **Polish, English** and **German**.
+### My name is **Magda Tomaszewska-Sosnowska**.
+I turn complex tech topics into clear, engaging content – in **Polish**, **English**, and **German**.
 
 I create:
 - 📈 **SEO articles**
