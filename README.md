@@ -70,25 +70,25 @@ Below are excerpts from selected modules.
 
 ### Modern Testing – Introduction to Testing (Importance)
 
-> *"A testing mindset is like being a detective — curious and alert, spotting hidden issues early. Functional testing acts like a recipe check — making sure every ingredient (feature) is present and behaves exactly as expected. Non-functional testing is like stress-testing a bridge, ensuring the system handles load, speed, and security under pressure. These tests are vital for both reliability and user experience. Automation is like your robot assistant — fast, consistent, and perfect for repetitive tasks. It saves time but needs clear rules and doesn't replace human insight. Setting limits on what and when to automate ensures the right balance between speed and thoughtful testing."*
+> *"A testing mindset is like being a detective - curious and alert, spotting hidden issues early. Functional testing acts like a recipe check - making sure every ingredient (feature) is present and behaves exactly as expected. Non-functional testing is like stress-testing a bridge, ensuring the system handles load, speed, and security under pressure. These tests are vital for both reliability and user experience. Automation is like your robot assistant - fast, consistent, and perfect for repetitive tasks. It saves time but needs clear rules and doesn't replace human insight. Setting limits on what and when to automate ensures the right balance between speed and thoughtful testing."*
 
 ---
 
 ### Cloud Security – Tools to Help (Importance)
 
-> *"Tools like AWS Config act like a security camera, tracking every change in your cloud setup to spot misconfigurations. AWS Shield is your bodyguard, protecting against DDoS attacks that try to overwhelm your system. GuardDuty works like a cloud detective, watching for unusual or suspicious behavior. Service Control Policies (SCPs) are like building rules—they control what each team or account is allowed to do, keeping everything organized and safe. The AWS Well-Architected Review is your regular check-up, helping you find weaknesses and follow best practices. Together, these tools strengthen your cloud security and help prevent costly mistakes or attacks."*
+> *"Tools like AWS Config act like a security camera, tracking every change in your cloud setup to spot misconfigurations. AWS Shield is your bodyguard, protecting against DDoS attacks that try to overwhelm your system. GuardDuty works like a cloud detective, watching for unusual or suspicious behavior. Service Control Policies (SCPs) are like building rules - they control what each team or account is allowed to do, keeping everything organized and safe. The AWS Well-Architected Review is your regular check-up, helping you find weaknesses and follow best practices. Together, these tools strengthen your cloud security and help prevent costly mistakes or attacks."*
 
 ---
 
 ### IT Essentials for Non-IT People – Back-end, Front-end and Full-stack (Importance)
 
-> *"Think of a Frontend Developer like a makeup artist — they focus on the visual appearance of a website or app, ensuring it looks attractive and user-friendly. They work on what users see and interact with: layouts, colours, buttons, and animations. In contrast, a Backend Developer is like a cosmetics manufacturer — working behind the scenes, they create the core formulas and systems that make the beauty possible. They write the code that powers the application, handles data, and ensures everything runs smoothly. A Full-Stack Developer is like someone who can do both — they create the cosmetics and apply them skilfully, handling everything from server logic to the final visual presentation."*
+> *"Think of a Frontend Developer like a makeup artist - they focus on the visual appearance of a website or app, ensuring it looks attractive and user-friendly. They work on what users see and interact with: layouts, colours, buttons, and animations. In contrast, a Backend Developer is like a cosmetics manufacturer -  working behind the scenes, they create the core formulas and systems that make the beauty possible. They write the code that powers the application, handles data, and ensures everything runs smoothly. A Full-Stack Developer is like someone who can do both - they create the cosmetics and apply them skilfully, handling everything from server logic to the final visual presentation."*
 
 ---
 
 ### IT Essentials for Non-IT People – Jenkins, Bamboo and TeamCity (Importance)
 
-> *"Jenkins is like a coffee machine with hundreds of settings and attachments — capable of brewing espresso, latte, cappuccino, even iced. With over 1,800 plugins, it's endlessly customizable, making it ideal for complex and flexible CI/CD workflows. Bamboo is like a Nespresso OriginalLine machine — designed to work only with Nespresso capsules. Similarly, Bamboo works best when integrated with other Atlassian tools like Jira and Bitbucket. TeamCity is like a smart coffee machine. As soon as you walk into the kitchen, it detects your preferences and starts preparing your drink. Just like TeamCity in the world of CI/CD — smart defaults, automatic build (the result of turning source code into a working program) detection, and clear feedback make development feel effortless."*
+> *"Jenkins is like a coffee machine with hundreds of settings and attachments - capable of brewing espresso, latte, cappuccino, even iced. With over 1,800 plugins, it's endlessly customizable, making it ideal for complex and flexible CI/CD workflows. Bamboo is like a Nespresso OriginalLine machine - designed to work only with Nespresso capsules. Similarly, Bamboo works best when integrated with other Atlassian tools like Jira and Bitbucket. TeamCity is like a smart coffee machine. As soon as you walk into the kitchen, it detects your preferences and starts preparing your drink. Just like TeamCity in the world of CI/CD — smart defaults, automatic build (the result of turning source code into a working program) detection, and clear feedback make development feel effortless."*
 
 ---
 
@@ -118,13 +118,13 @@ Below are excerpts from selected modules.
 
 ### GDPR – Understanding GDPR (Importance)
 
-> *"Without GDPR: Imagine you download a free weather app and accept the terms without reading. (12 pages long and full of legal jargon. Anyway, who has time for it?). Without your consent, the app starts collecting your location every 10 seconds, accessing contacts, photos, and browsing history — and selling it all to advertisers and data brokers. Soon, you receive targeted ads based on your movements. Your phone drains faster — it's constantly tracking you! You're invisible as a person but fully exposed as a data source! With GDPR: The app would need your clear consent and could only collect data necessary to provide the service — not exploit your privacy!"*
+> *"Without GDPR: Imagine you download a free weather app and accept the terms without reading. (12 pages long and full of legal jargon. Anyway, who has time for it?). Without your consent, the app starts collecting your location every 10 seconds, accessing contacts, photos, and browsing history - and selling it all to advertisers and data brokers. Soon, you receive targeted ads based on your movements. Your phone drains faster - it's constantly tracking you! You're invisible as a person but fully exposed as a data source! With GDPR: The app would need your clear consent and could only collect data necessary to provide the service — not exploit your privacy!"*
 
 ---
 
 ### HIPAA – Use and Disclosure of PHI: When It's Permitted (Importance)
 
-> *"Picture this: An unconscious patient lies in critical condition after a severe accident, having lost too much blood. He cannot approve or refuse treatment — and there's no time to wait for consent. In this moment, HIPAA allows the use and disclosure of PHI without authorization to provide emergency care. This rule truly saves his life!"*
+> *"Picture this: An unconscious patient lies in critical condition after a severe accident, having lost too much blood. He cannot approve or refuse treatment -  and there's no time to wait for consent. In this moment, HIPAA allows the use and disclosure of PHI without authorization to provide emergency care. This rule truly saves his life!"*
 
 ---
 
