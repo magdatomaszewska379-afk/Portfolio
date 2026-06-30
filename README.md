@@ -25,6 +25,9 @@ I create:
 - [Fintech APIs – What Are They and How Do They Work?](https://softwaremind.com/blog/fintech-apis-what-are-they-and-how-do-they-work/)
 - [Network Deployment – A Complete Guide for Telecom Operators](https://softwaremind.com/blog/network-deployment-a-complete-guide-for-telecom-operators/)
 - [Robotic Process Automation in Telecom](https://softwaremind.com/blog/robotic-process-automation-rpa-in-telecom-use-cases-benefits-and-implementation/)
+- [What is Digital Transformation in Telecom?](https://softwaremind.com/blog/what-is-digital-transformation-in-telecom/).
+- [How Robotic Process Automation is Transforming Telecom?](https://softwaremind.com/blog/rpa-in-telecom-how-robotic-process-automation-is-transforming-telecom/).
+- [Generative AI Integration: A Practical Guide for AI Implementation](https://softwaremind.com/blog/generative-ai-integration-a-practical-guide-for-ai-implementation/).
 
 **2. Blog articles written for Software Mind**
 (titles only – full content protected by copyright)
